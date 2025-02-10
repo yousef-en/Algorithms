@@ -14,7 +14,7 @@ console.log(Fibonacci(10)); //output = 55
 
 
 
-// tow
+// tow.
 
 function Fibonacci(length) {
     let a = 0,
@@ -27,3 +27,4 @@ function Fibonacci(length) {
     }
     return sum
   }
+  

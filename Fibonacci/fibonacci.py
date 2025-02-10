@@ -22,4 +22,4 @@ def fibonacci(n):
 n = 10 
 fib_sequence = list(fibonacci(n))
 
-print(fib_sequence)    #[0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+print(fib_sequence)    #[0, 1, 1, 2, 3, 5, 8, 13, 21, 34].
